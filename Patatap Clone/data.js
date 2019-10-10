@@ -1,3 +1,4 @@
+//starts
 var data = {
 	q: {
 		sound: new Howl({
@@ -155,4 +156,4 @@ var data = {
 		}),
 		color: '#2c3e50'
 	}
-}
+}//Ends
